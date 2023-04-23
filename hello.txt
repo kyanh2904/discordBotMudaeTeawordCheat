@@ -1,0 +1,2 @@
+most of the code is written by ChatGPT
+the html files can be opened in a browser and then searched by ctrl + f (not effective)
